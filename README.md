@@ -1,6 +1,6 @@
 ## Hi there, I'm Taniya 👋
 
-I'm looking to become a back end Software Developer after spending the last few years working in Power Engineering. Over the past few months, I've learned Python, Data Structures, volunteered at an open-source learning platform and most recently, completed a batch at the [Recurse Center](https://www.recurse.com/)!
+I'm looking to become a back end Software Developer after spending the last few years working in Power Engineering. Over the past year, I've learned Python, Data Structures, dabbled in Data Science, volunteered at an open-source learning platform and most recently, completed a batch at the [Recurse Center](https://www.recurse.com/)!
 
 🔭 I’m currently working on (next steps for the project):
 - [RC Niceties](https://github.com/mjec/rc-niceties): migrate old data from production database to an updated database with a new schema.
@@ -12,7 +12,9 @@ I'm looking to become a back end Software Developer after spending the last few 
 - Alembic
 - Systems Design Fundamentals ([Algo Expert](https://www.algoexpert.io/systems/fundamentals))
 - Database designs ([DDIA](https://dataintensive.net/))
+- Python Best Practices: Reading through [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) and [Serious Python](https://nostarch.com/seriouspython)
 
+I occassionaly blog at [taniyasingh.com](http://taniyasingh.com/) and you can also reach out at taniya.singh12@gmail.com. 
 
 <!--
 **tas09009/tas09009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
