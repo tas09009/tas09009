@@ -3,7 +3,7 @@
 I'm looking to become a back end Software Developer after spending the last few years working in Power Engineering. Over the past year, I've learned Python, Data Structures, dabbled in Data Science, volunteered at an open-source learning platform and most recently, completed a batch at the [Recurse Center](https://www.recurse.com/)!
 
 🔭 I’m currently working on (next steps for the project):
-- [RC Niceties](https://github.com/mjec/rc-niceties): migrate old data from production database to an updated database with a new schema.
+- [RC Niceties](https://github.com/mjec/rc-niceties): migrate old data from production database to an updated database with a new schema. See [PR #82](https://github.com/mjec/rc-niceties/pull/82)
 - [Wrec API](https://github.com/tas09009/Wrec-API): Add token-based authentication. Create a controllers directory to clean out business logic from views.
 
 🌱 I’m currently learning: 
