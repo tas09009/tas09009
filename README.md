@@ -12,7 +12,11 @@ I'm looking to become a back end Software Developer after spending the last few 
 - Alembic
 - Systems Design Fundamentals ([Algo Expert](https://www.algoexpert.io/systems/fundamentals))
 - Database designs ([DDIA](https://dataintensive.net/))
+
+📚 I plan on learning:
 - Python Best Practices: Reading through [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) and [Serious Python](https://nostarch.com/seriouspython)
+- Computer Science using [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- Coursera Class: [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
 
 I occassionaly blog at [taniyasingh.com](http://taniyasingh.com/) and you can also reach out at taniya.singh12@gmail.com. 
 
